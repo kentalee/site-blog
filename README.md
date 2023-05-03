@@ -1,1 +1,1 @@
-# 01.site-blog
+Example site modified from https://github.com/gohugoio/hugoBasicExample
